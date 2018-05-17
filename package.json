@@ -1,0 +1,16 @@
+{
+  "name": "assembly-lang",
+  "version": "2.0.0",
+  "description": "this is an app that simulates commonly used assembly language code.",
+  "main": "web.js",
+  "scripts": {
+    "test": "node web.js"
+  },
+  "keywords": [
+    "devashish234073",
+    "assembly",
+    "assembly-lang"
+  ],
+  "author": "Devashish Priyadarshi",
+  "license": "ISC"
+}
